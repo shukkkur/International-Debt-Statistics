@@ -1,4 +1,2 @@
-*.sql linguist-detectable=true
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
+*.sql linguist-language=sql
+*.my linguist-language=sql
